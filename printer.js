@@ -3,6 +3,7 @@ $(() => {
 
   const contributors = [
     { name: "Didier Valdez", github: "https://github.com/xDidier901" }
+   ,{ name: "Aaron Romero", github: "https://github.com/farassharp" }
   ];
 
   function printNames() {
