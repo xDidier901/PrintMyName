@@ -3,9 +3,10 @@ $(() => {
 
   const contributors = [
     { name: 'Didier Valdez', github: 'https://github.com/xDidier901' },
+    { name: 'Aaron Romero', github: 'https://github.com/farassharp' },
     { name: 'Joshua Saucedo', github: 'https://github.com/joshuansu0897'}
   ]
-
+  
   function printNames() {
     contributors.forEach(contributor => {
       contributorsList.append(`
