@@ -1,0 +1,23 @@
+/*!
+ * Coded by @amiresp with happy (https://amiresp.ir)
+ * Copyright 2019-JustNow ;) For Authors
+ */
+
+.list-group-item {
+    display: flex;
+    flex-direction: row;
+}
+
+.list-group-item p {
+    flex-basis: 96%;
+    margin: 0px;
+    align-self: center;
+}
+
+.list-group-item img {
+    width: 50px;
+    height: 100%;
+    display: block;
+    border-radius: 50px;
+    flex-basis: 4%;
+}

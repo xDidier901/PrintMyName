@@ -2,6 +2,11 @@
 
 Easy project to get you started with pull requests and get participations for the HacktoberFest event
 
+# You can see the page here
+https://printmynamerepo.000webhostapp.com
+
+I'll try to update it everyday during the period of the HacktoberFest event
+
 # Create a pull request
 
 If you don't know how to make a pull request, check this link:
@@ -19,12 +24,8 @@ Follow this example:
   ];
 ```
 
-# You can see the page here
-https://printmynamerepo.000webhostapp.com
-
-I'll try to update it everyday during the period of the HacktoberFest event
-
 # Try new things
 This is a fun place to get started contributing to open source projects.
 Try to play with this project! 
 Add css styles, hover effects, images, new ways to show the contributors, etc!
+Try to solve one of the issues!
